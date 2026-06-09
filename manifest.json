@@ -1,7 +1,7 @@
 {
   "id": "shoujidiannao",
   "name": "Obsync (test build)",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "minAppVersion": "1.4.0",
   "description": "Custom Obsidian sync client for the obsync server. Selective sync + WeChat QR login.",
   "author": "obsync team",
